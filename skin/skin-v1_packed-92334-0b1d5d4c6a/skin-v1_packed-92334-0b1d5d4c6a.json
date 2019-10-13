@@ -1,0 +1,70 @@
+{
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "Time": {
+    "Hours": {
+      "Tens": {
+        "X": 14,
+        "Y": 26,
+        "ImageIndex": 1,
+        "ImagesCount": 3
+      },
+      "Ones": {
+        "X": 62,
+        "Y": 26,
+        "ImageIndex": 1,
+        "ImagesCount": 10
+      }
+    },
+    "Minutes": {
+      "Tens": {
+        "X": 12,
+        "Y": 86,
+        "ImageIndex": 1,
+        "ImagesCount": 6
+      },
+      "Ones": {
+        "X": 62,
+        "Y": 86,
+        "ImageIndex": 1,
+        "ImagesCount": 10
+      }
+    }
+  },
+  "StepsProgress": {
+    "Linear": {
+      "StartImageIndex": 11,
+      "Segments": [
+        {
+          "X": 0,
+          "Y": 140
+        },
+        {
+          "X": 0,
+          "Y": 140
+        },
+        {
+          "X": 0,
+          "Y": 140
+        },
+        {
+          "X": 0,
+          "Y": 140
+        },
+        {
+          "X": 0,
+          "Y": 140
+        },
+        {
+          "X": 0,
+          "Y": 140
+        }
+      ]
+    }
+  }
+}

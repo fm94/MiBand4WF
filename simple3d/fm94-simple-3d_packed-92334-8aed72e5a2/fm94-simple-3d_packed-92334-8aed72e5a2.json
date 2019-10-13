@@ -1,0 +1,94 @@
+{
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "Time": {
+    "Hours": {
+      "Tens": {
+        "X": 4,
+        "Y": 33,
+        "ImageIndex": 1,
+        "ImagesCount": 3
+      },
+      "Ones": {
+        "X": 61,
+        "Y": 33,
+        "ImageIndex": 1,
+        "ImagesCount": 10
+      }
+    },
+    "Minutes": {
+      "Tens": {
+        "X": 4,
+        "Y": 116,
+        "ImageIndex": 1,
+        "ImagesCount": 6
+      },
+      "Ones": {
+        "X": 61,
+        "Y": 116,
+        "ImageIndex": 1,
+        "ImagesCount": 10
+      }
+    }
+  },
+  "Activity": {
+    "Steps": {
+      "Number": {
+        "TopLeftX": 1,
+        "TopLeftY": 207,
+        "BottomRightX": 0,
+        "BottomRightY": 0,
+        "Alignment": "TopLeft",
+        "Spacing": -3,
+        "ImageIndex": 11,
+        "ImagesCount": 10
+      }
+    },
+    "Pulse": {
+      "Number": {
+        "TopLeftX": 70,
+        "TopLeftY": 207,
+        "BottomRightX": 118,
+        "BottomRightY": 221,
+        "Alignment": "TopRight",
+        "Spacing": -3,
+        "ImageIndex": 11,
+        "ImagesCount": 10
+      },
+      "NoDataImageIndex": 21
+    }
+  },
+  "Date": {
+    "MonthAndDay": {
+      "Separate": {
+        "Month": {
+          "TopLeftX": 29,
+          "TopLeftY": 12,
+          "BottomRightX": 0,
+          "BottomRightY": 0,
+          "Alignment": "TopLeft",
+          "Spacing": -2,
+          "ImageIndex": 11,
+          "ImagesCount": 10
+        },
+        "Day": {
+          "TopLeftX": 59,
+          "TopLeftY": 12,
+          "BottomRightX": 118,
+          "BottomRightY": 66,
+          "Alignment": "TopLeft",
+          "Spacing": -2,
+          "ImageIndex": 11,
+          "ImagesCount": 10
+        }
+      },
+      "TwoDigitsMonth": true,
+      "TwoDigitsDay": true
+    }
+  }
+}

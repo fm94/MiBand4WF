@@ -1,0 +1,98 @@
+{
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "Activity": {
+    "Distance": {
+      "Number": {
+        "TopLeftX": 2,
+        "TopLeftY": 7,
+        "BottomRightX": 111,
+        "BottomRightY": 232,
+        "Alignment": "TopLeft",
+        "Spacing": 0,
+        "ImageIndex": 1,
+        "ImagesCount": 10
+      },
+      "SuffixImageIndex": 21,
+      "DecimalPointImageIndex": 11
+    }
+  },
+  "Status": {
+    "Battery": {
+      "BatteryConfig": {
+        "BoxWidth": 0,
+        "Alignment": 0,
+        "Order": 0
+      },
+      "Icon": {
+        "X": 93,
+        "Y": 7,
+        "ImageIndex": 12,
+        "ImagesCount": 9
+      }
+    }
+  },
+  "AnalogDialFace": {
+    "Hours": {
+      "OnlyBorder": false,
+      "Color": "0x000000",
+      "Center": {
+        "X": 59,
+        "Y": 162
+      },
+      "Shape": [
+        {
+          "X": -4,
+          "Y": 0
+        },
+        {
+          "X": 0,
+          "Y": -2
+        },
+        {
+          "X": 16,
+          "Y": 0
+        },
+        {
+          "X": 16,
+          "Y": 2
+        },
+        {
+          "X": 0,
+          "Y": 2
+        }
+      ]
+    },
+    "Minutes": {
+      "OnlyBorder": false,
+      "Color": "0x000000",
+      "Center": {
+        "X": 59,
+        "Y": 162
+      },
+      "Shape": [
+        {
+          "X": -6,
+          "Y": 0
+        },
+        {
+          "X": 0,
+          "Y": -2
+        },
+        {
+          "X": 26,
+          "Y": 0
+        },
+        {
+          "X": 0,
+          "Y": 2
+        }
+      ]
+    }
+  }
+}
